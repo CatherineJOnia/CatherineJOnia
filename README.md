@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Catherine</h1>
-<h3 align="center">A full stack software engineer.</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Catherine, a full stack software engineer based in Atlanta.</h3>
 
 - 🔭 I’m currently working on [DinGo](github.com/catherinejonia/dingo)
 
