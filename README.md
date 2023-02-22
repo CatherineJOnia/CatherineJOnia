@@ -42,11 +42,11 @@
 </p>
   
 
-- 🔭 I’m currently working on [DinGo](github.com/catherinejonia/dingo)
+- 🔭 I’m currently working on [DinGo](github.com/catherinejonia/dingo), an eCommerce site for Dinner on the Go! 
 
-- 🌱 I’m currently learning **Tailwind Css**
+- 🌱 I’m currently learning **Tailwind CSS, Firebase, and Typescript**
 
-- 👯 I’m looking to corollabate on [TripWise](github.com/catherinejonia/tripwise)
+- 👯 I’m looking to corollabate on [TripWise](github.com/catherinejonia/tripwise), a trip planning application.
 
 - 📫 How to reach me **catherinejonia@gmail.com**
 
