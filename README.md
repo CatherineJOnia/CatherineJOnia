@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Catherine, a full stack software engineer based in Atlanta.</h3>
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Catherine%20Onia%20👩🏻‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Catherine%20Onia%20👩🏻‍💻&width=800&height=400)
 
 - 🔭 I’m currently working on [DinGo](github.com/catherinejonia/dingo)
 
