@@ -5,9 +5,6 @@
 
 ## Tech Stack
 <p> 
-<a href="https://code.visualstudio.com/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
 <img src="https://user-images.githubusercontent.com/48143100/163075516-9b38424a-eec9-411f-8718-6facb953d642.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org">
@@ -39,6 +36,9 @@
 <a href="https://github.com/"> 
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="javascript" width="40" height="40"/> 
 </a>
+<a href="https://code.visualstudio.com/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<a>
 </p>
   
 
