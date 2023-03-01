@@ -46,7 +46,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, Firebase, and Typescript**
 
-- 👯 I’m looking to corollabate on [TripWise](github.com/catherinejonia/tripwise), a trip planning application.
+- 👯 I’m looking to collaborate on [TripWise](github.com/catherinejonia/tripwise), a trip planning application.
 
 - 📫 How to reach me **catherinejonia@gmail.com**
 
