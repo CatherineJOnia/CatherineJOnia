@@ -45,9 +45,11 @@
 </p>
   
 
-- 🔭 I’m currently working on [DinGo](github.com/catherinejonia/dingo), an eCommerce site for Dinner on the Go! 
+- 🔭 I’m currently working on a [ChatGPT Clone](github.com/catherinejonia/dingo), 
 
 - 🌱 I’m currently learning **Tailwind CSS, Firebase, and Typescript**
+
+- :fire: My most recent deployed project is [Dingo](dingo-onia.onrender.com), an eCommerce site for Dinner on the Go!
 
 - 👯 I’m looking to collaborate on [TripWise](github.com/catherinejonia/tripwise), a trip planning application.
 
