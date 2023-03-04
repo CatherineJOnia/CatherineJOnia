@@ -39,6 +39,9 @@
 <a href="https://code.visualstudio.com/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <a>
+<a href="https://git-scm.com/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="vscode" width="40" height="40"/>
+<a>
 </p>
   
 
