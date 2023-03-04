@@ -49,7 +49,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, Firebase, and Typescript**
 
-- :fire: My most recent deployed project is [Dingo](dingo-onia.onrender.com), an eCommerce site for Dinner on the Go!
+- :fire: My most recent deployed project is [Dingo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go!
 
 - 👯 I’m looking to collaborate on [TripWise](github.com/catherinejonia/tripwise), a trip planning application.
 
