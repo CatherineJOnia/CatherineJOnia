@@ -45,13 +45,13 @@
 </p>
   
 
-- 🔭 I’m currently working on a [ChatGPT Clone](github.com/catherinejonia/dingo), 
+- 🔭 I’m currently working on a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone), 
 
 - 🌱 I’m currently learning **Tailwind CSS, Firebase, and Typescript**
 
 - :fire: My most recent deployed project is [Dingo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go!
 
-- 👯 I’m looking to collaborate on [TripWise](github.com/catherinejonia/tripwise), a trip planning application.
+- 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
 - 📫 How to reach me **catherinejonia@gmail.com**
 
