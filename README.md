@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
 <a href="https://mui.com/">
-<img src="https://user-images.githubusercontent.com/48143100/163075600-bcf5197c-33fa-4d61-933f-1eb82cf4807f.png" alt="redux" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/48143100/163075600-bcf5197c-33fa-4d61-933f-1eb82cf4807f.png" alt="mui" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
@@ -30,17 +30,25 @@
 <a href="https://www.w3.org/html/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
 </a> 
+<a href="https://tailwindcss.com/"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+</a>
 <a href="https://webpack.js.org/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="html5" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
+</a> 
+<a href="https://www.typescriptlang.org/"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
 </a> 
 <a href="https://github.com/"> 
-<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="javascript" width="40" height="40"/> 
+<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="github" width="40" height="40"/> 
 </a>
 <a href="https://code.visualstudio.com/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <a>
 <a href="https://git-scm.com/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <a>
 </p>
   
