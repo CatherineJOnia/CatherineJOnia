@@ -15,6 +15,9 @@
 <a href="https://firebase.google.com/"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
 </a> 
+<a href="https://expressjs.com/">
+<img src="https://github.com/CatherineJOnia/DinGo/blob/main/public/images/express.png" alt="express" width="40" height="40"/>
+</a>
 <a href="https://nodejs.org"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
@@ -24,8 +27,8 @@
 <a href="https://redux.js.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
-<a href="https://expressjs.com/">
-<img src="https://github.com/CatherineJOnia/DinGo/blob/main/public/images/express.png" alt="express" width="40" height="40"/>
+<a href="https://nextjs.org/">
+<img src="https://github.com/CatherineJOnia/ChatGPT-Clone/blob/main/public/nextjs.png" alt="nextjs" width="40" height="40"/>
 </a>
 <a href="https://mui.com/">
 <img src="https://user-images.githubusercontent.com/48143100/163075600-bcf5197c-33fa-4d61-933f-1eb82cf4807f.png" alt="mui" width="40" height="40"/>
