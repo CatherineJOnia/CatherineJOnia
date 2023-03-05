@@ -18,9 +18,6 @@
 <a href="https://expressjs.com/">
 <img src="https://github.com/CatherineJOnia/DinGo/blob/main/public/images/express.png" alt="express" width="40" height="40"/>
 </a>
-<a href="https://nodejs.org"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
 <a href="https://reactjs.org/"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
 </a>
@@ -30,6 +27,9 @@
 <a href="https://nextjs.org/">
 <img src="https://github.com/CatherineJOnia/ChatGPT-Clone/blob/main/public/nextjs.png" alt="nextjs" width="40" height="40"/>
 </a>
+<a href="https://nodejs.org"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
 <a href="https://mui.com/">
 <img src="https://user-images.githubusercontent.com/48143100/163075600-bcf5197c-33fa-4d61-933f-1eb82cf4807f.png" alt="mui" width="40" height="40"/>
 </a>
