@@ -59,7 +59,7 @@
 </p>
   
 
-- 🔭 I’m currently working on a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone), 
+- 🔭 I’m currently working on a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone)
 
 - 🌱 I’m currently learning **Tailwind CSS, Firebase, and Typescript**
 
