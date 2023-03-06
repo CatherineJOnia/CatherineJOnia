@@ -67,13 +67,8 @@
 
 - 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
-- 📫 How to reach me **catherinejonia@gmail.com**
+- 📫 [Click Here](https://linktr.ee/catherineonia) to reach me!
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/catherineonia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catherineonia" height="30" width="40" /></a>
-<a href="https://medium.com/catherineonia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="catherineonia" height="30" width="40" /></a>
-</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catherinejonia&label=Profile%20views&color=0e75b6&style=flat" alt="catherinejonia" /> </p>
