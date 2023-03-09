@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Catherine%20Onia%20👩🏻‍💻&width=800&height=400)
+![SVG Banners](https://github.com/CatherineJOnia/leetcode/blob/main/ReadMeGIF.gif)
 
 <h1>Hi there 👋</h1>
 <h3>I'm Catherine, a full stack software engineer based in Atlanta.</h3>
