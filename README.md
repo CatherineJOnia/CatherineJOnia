@@ -59,9 +59,9 @@
 </p>
   
 
-- 🌱  I’m currently working on a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone), learning **Tailwind CSS, Firebase and TypeScript**
+- 🌱  I just develpoed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone), by learning **Tailwind CSS, Firebase and TypeScript**
 
-- :fire: My most recently deployed project is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
+- :fire: One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
 
 - 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
