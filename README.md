@@ -58,10 +58,11 @@
 <a>
 </p>
   
+- 🌙 I'm currently working on [My Portfolio](https://catherinejonia.com), trying to make it both desktop and mobile-friendly, aesthetically pleasing, and responsive.  If you have any comments or suggestions, I would love to hear from you! 
 
-- 🌱  I just develpoed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone), by learning **Tailwind CSS, Firebase and TypeScript**
+- 🌱 I just developoed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone), by learning **Tailwind CSS, Firebase and TypeScript**
 
-- :fire: One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
+-🔥 One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
 
 - 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
