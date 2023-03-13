@@ -62,7 +62,7 @@
 
 - 🌱 I just developoed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone), by learning **Tailwind CSS, Firebase and TypeScript**
 
--🔥 One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
+- 🔥 One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
 
 - 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
