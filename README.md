@@ -58,7 +58,7 @@
 <a>
 </p>
   
-- 🌙 I'm currently working on [My Portfolio](https://catherinejonia.com), trying to make it both desktop and mobile-friendly, aesthetically pleasing, and responsive.  If you have any comments or suggestions, I would love to hear from you! 
+- 🌙 I'm currently working on [My Portfolio](https://catherinejonia.com), trying to make it both desktop and mobile-friendly, aesthetically pleasing, and responsive. 
 
 - 🌱 I just developed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone) by learning **Tailwind CSS, Firebase and TypeScript**
 
