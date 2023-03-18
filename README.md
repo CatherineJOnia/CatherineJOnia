@@ -1,7 +1,7 @@
 ![SVG Banners](https://github.com/CatherineJOnia/leetcode/blob/main/ReadMeGIF.gif)
 
 <h1>Hi there 👋</h1>
-<h3>I'm Catherine, a full stack software engineer based in Atlanta.</h3>
+<h3>I'm Catherine, a full stack software engineer.</h3>
 
 ## Tech Stack
 <p> 
@@ -60,7 +60,7 @@
   
 - 🌙 I'm currently working on [My Portfolio](https://catherinejonia.com), trying to make it both desktop and mobile-friendly, aesthetically pleasing, and responsive. 
 
-- 🌱 I just developed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatGPT-Clone) by learning **Tailwind CSS, Firebase and TypeScript**
+- 🌱 I just developed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatOnia) by learning **Tailwind CSS, Firebase and TypeScript**
 
 - 🔥 One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
 
