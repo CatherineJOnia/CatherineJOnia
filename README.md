@@ -4,7 +4,7 @@
 
 ### My name is Catherine and I am a Full Stack Software Engineer.  As a developer, I take pride in developing applications that are functional, visually appealing, and user-friendly.
 
-### I’m passionate about nature, sustainability, mental health awareness, minority representation, and, of course, coding! Currently, I’m seeking an Entry-Level Software Developer role.  If you know of any opportunities or want to hire me, I would be thrilled to [hear](mailto:catherinejonia@gmail.com) from you! 
+### I’m passionate about nature, sustainability, mental health awareness, minority representation, and, of course, coding! Currently, I’m seeking an Entry Level Software Developer role.  If you know of any opportunities or want to hire me, I would be thrilled to [hear](mailto:catherinejonia@gmail.com) from you! 
 
 ### When I'm not coding, you can find me working on a problem at the climbing gym, patroning a local boba shop, or planning my next international trip!  A few things on my bucket list are hiking the W Trek in Torres Del Paine, Patagonia, visiting the bioluminescent Waitomo Glowworm Caves in New Zealand, and diving with whale sharks in Maldives.
 
