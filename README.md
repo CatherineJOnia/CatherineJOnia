@@ -10,7 +10,7 @@
 
 <hr>
 
-## Tech Stack
+## TECH STACK
 <p> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
 <img src="https://user-images.githubusercontent.com/48143100/163075516-9b38424a-eec9-411f-8718-6facb953d642.png" alt="javascript" width="40" height="40"/> </a>
@@ -64,12 +64,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <a>
 </p>
-  
-🌙 I'm currently working on [My Portfolio](https://catherinejonia.com), trying to make it both desktop and mobile-friendly, aesthetically pleasing, and responsive. 
 
-🌱 I just developed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatOnia) by learning **Tailwind CSS, Firebase and TypeScript**
+## PORTFOLIO: 
 
-🔥 One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
+🌙 You'll find [My Portfolio](https://catherinejonia.com) to be both desktop and mobile-friendly, aesthetically pleasing, and responsive. 
+
+## WHAT I'VE BEEN UP TO: 
+
+🌱 I'm currently sprucing up my [eCommerce site](https://dingo-onia.onrender.com) for Dinner on the Go.  My goals are to incorporate payment options like PayPal and Stripe, streamline the login and sign-up process through OAuth integration, and create a realistic and engaging application. 
+
+🔥 One of my recently deployed projects is a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatOnia) that I developed by learning **Tailwind CSS, Firebase and TypeScript**
 
 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
