@@ -77,7 +77,7 @@
 
 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
-📫 [Click Here](https://linktr.ee/catherineonia) to reach me!
+🔗 [Click Here](https://linktr.ee/catherineonia) to see a full collection of my professional links.
 
 
 
