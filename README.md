@@ -1,7 +1,14 @@
-![SVG Banners](https://github.com/CatherineJOnia/leetcode/blob/main/ReadMeGIF.gif)
+![WelcomeBanner](https://github.com/CatherineJOnia/leetcode/blob/main/ReadMeGIF.gif)
 
-<h1>Hi there 👋</h1>
-<h3>I'm Catherine, a full stack software engineer.</h3>
+### Welcome,
+
+### My name is Catherine and I am a Full Stack Software Engineer.  As a developer, I take pride in developing applications that are functional, visually appealing, and user-friendly.
+
+### I’m passionate about nature, sustainability, mental health awareness, minority representation, and, of course, coding! Currently, I’m seeking a Junior Software Developer role. If you know of any opportunities or want to hire me, I would be thrilled to [hear](mailto:catherinejonia@gmail.com) from you! 
+
+### When I'm not coding, you can find me working on a problem at the climbing gym, patroning a local boba shop, or planning my next international trip!  A few things on my bucket list are hiking the W Trek in Torres Del Paine, Patagonia, visiting the bioluminescent Waitomo Glowworm Caves in New Zealand, and diving with whale sharks in Maldives.
+
+<hr>
 
 ## Tech Stack
 <p> 
@@ -58,15 +65,15 @@
 <a>
 </p>
   
-- 🌙 I'm currently working on [My Portfolio](https://catherinejonia.com), trying to make it both desktop and mobile-friendly, aesthetically pleasing, and responsive. 
+🌙 I'm currently working on [My Portfolio](https://catherinejonia.com), trying to make it both desktop and mobile-friendly, aesthetically pleasing, and responsive. 
 
-- 🌱 I just developed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatOnia) by learning **Tailwind CSS, Firebase and TypeScript**
+🌱 I just developed a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatOnia) by learning **Tailwind CSS, Firebase and TypeScript**
 
-- 🔥 One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
+🔥 One of my recently deployed projects is [DinGo](https://dingo-onia.onrender.com), an eCommerce site for Dinner on the Go! 
 
-- 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
+👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
-- 📫 [Click Here](https://linktr.ee/catherineonia) to reach me!
+📫 [Click Here](https://linktr.ee/catherineonia) to reach me!
 
 
 
