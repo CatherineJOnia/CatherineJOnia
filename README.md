@@ -73,7 +73,7 @@
 
 🌱 I'm currently sprucing up my [eCommerce site](https://dingo-onia.onrender.com) for Dinner on the Go.  My goals are to incorporate payment options like PayPal and Stripe, streamline the login and sign-up process through OAuth integration, and create a realistic and engaging application. 
 
-🔥 One of my recently deployed projects is a [ChatGPT Clone](https://github.com/CatherineJOnia/ChatOnia) that I developed by learning **Tailwind CSS, Firebase and TypeScript**
+🔥 One of my recently deployed projects is [ChatOnia](https://github.com/CatherineJOnia/ChatOnia), a ChatGPT Clone that I developed by learning **Tailwind CSS, Firebase, Next.js and TypeScript**
 
 👯 I’m looking to collaborate on [TripWise](https://github.com/catherinejonia/tripwise), a trip planning application.
 
